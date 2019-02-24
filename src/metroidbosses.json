@@ -74,7 +74,7 @@
           "name": "Kraid",
           "dmgToSamus": [20, 10, 5],
           "hp": 1000,
-          drops: {
+          "drops": {
             "no-drop": 0,
             "small-energy": 20,
             "big-energy": 20,
