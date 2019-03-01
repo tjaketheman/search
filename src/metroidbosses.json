@@ -5,11 +5,11 @@
           "dmgToSamus": [5, 3, 1],
           "hp": 18000,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -28,11 +28,11 @@
           "dmgToSamus": [8, 4, 2],
           "hp": 800,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -51,11 +51,11 @@
           "dmgToSamus": [12, 6, 3],
           "hp": 960,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -74,11 +74,11 @@
           "dmgToSamus": [20, 10, 5],
           "hp": 1000,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -95,11 +95,11 @@
           "dmgToSamus": [40, 20, 10],
           "hp": 0,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -116,11 +116,11 @@
           "dmgToSamus": [40, 20, 10],
           "hp": 2500,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -139,11 +139,11 @@
           "dmgToSamus": [128, 64, 32],
           "hp": 3000,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -162,11 +162,11 @@
           "dmgToSamus": [160, 80, 40],
           "hp": 6000,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -183,11 +183,11 @@
           "dmgToSamus": [160, 80, 40],
           "hp": 13500,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -206,11 +206,11 @@
           "dmgToSamus": [160, 80, 40],
           "hp": 18000,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -229,11 +229,11 @@
           "dmgToSamus": [120, 60, 30],
           "hp": 3000,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -250,11 +250,11 @@
           "dmgToSamus": [120, 60, 30],
           "hp": 18000,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {
@@ -271,11 +271,11 @@
           "dmgToSamus": [120, 60, 30],
           "hp": 36000,
           "drops": {
-            "no-drop": 0,
-            "small-energy": 20,
-            "big-energy": 20,
+            "nodrop": 0,
+            "smallenergy": 20,
+            "bigenergy": 20,
             "missile": 20,
-            "super": 20,
+            "superm": 20,
             "powerbomb": 22
           },
           "dims": {

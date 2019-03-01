@@ -1,7 +1,5 @@
 import React from "react";
-import SingleBoss from "./singleboss";
-import Bosses from "./metroidbosses";
-
+import bosses from "./metroidbosses";
 
 class SearchBar extends React.Component {
   state = {
